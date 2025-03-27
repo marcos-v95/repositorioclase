@@ -1,2 +1,1 @@
-# repositorioclase
-un repositorio para resolver actividad practica
+Este es un cambio en la feature branch.
